@@ -19,19 +19,19 @@ const Navigation = () => {
               className={(nav) => (nav.isActive ? "nav-active hober" : "hover")}
             >
               <li>Projet 1</li>
-            </NavLink>{" "}
+            </NavLink>
             <NavLink
               to="/projet-2"
               className={(nav) => (nav.isActive ? "nav-active hober" : "hover")}
             >
               <li>Projet 2</li>
-            </NavLink>{" "}
+            </NavLink>
             <NavLink
               to="/projet-3"
               className={(nav) => (nav.isActive ? "nav-active hober" : "hover")}
             >
               <li>Projet 3</li>
-            </NavLink>{" "}
+            </NavLink>
             <NavLink
               to="/projet-4"
               className={(nav) => (nav.isActive ? "nav-active hober" : "hover")}

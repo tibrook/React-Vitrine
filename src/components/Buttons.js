@@ -9,9 +9,9 @@ const Buttons = (props) => {
           <span>&#10092;</span>
         </NavLink>
       )}
-      {props.rigth && (
-        <NavLink to={props.left} className="left hover">
-          <span>&#10092;</span>
+      {props.right && (
+        <NavLink to={props.right} className="right hover">
+          <span>&#10093;</span>
         </NavLink>
       )}
     </div>
