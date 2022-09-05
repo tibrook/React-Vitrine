@@ -2,7 +2,8 @@
 
 ## Technos
 
-React
+- React
+- FramerJS
 
 ## Installation
 
